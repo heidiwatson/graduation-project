@@ -15,6 +15,7 @@
  */
 
 /* studied by heidiwatson */
+/* prctice the point-to-point simulation */
 
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
